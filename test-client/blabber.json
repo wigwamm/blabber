@@ -1,0 +1,16 @@
+{
+	
+	"propertyType": "flat",
+	"numBeds": 2,
+	"numBaths": 2,
+	"size": "large",
+	"furnished": true,
+	"decor": "modern",
+	"pets": "allowed",
+	"dss": "not allowed",
+	"availStart": {
+		"month": "December",
+		"year": "2013"
+	},
+	"locationDesc": "located in a hip neighborhood"
+}

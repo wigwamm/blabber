@@ -7,6 +7,6 @@ app.use(connect.bodyParser());
 app.use(rest.rester());
 
 var descriptionGenerator = require('./lib/descriptionGenerator');
-rest.post('/description', descriptionGenerator);
+rest.post('/description', descriptionGenerator.generate);
 
 http.createServer(app).listen(9000);
