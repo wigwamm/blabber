@@ -1,0 +1,26 @@
+{
+  "channel": "sales",
+  "details": {
+    "property_type": "flat/conversion",
+    "bedrooms": 0,
+    "entrance_floor": "G",
+    "lift_access": "lift",
+    "rear_garden": "none",
+    "parking": "double",
+    "heating": "gas",
+    "last_decorated": "2013",
+    "tenure": "leasehold",
+    "leasehold_years_left": 56,
+    "why_selling": "upscaling"
+  },
+  "address": {
+    "house_name_number": "241 Lavender Hill",
+    "town": "London",
+    "postcode": "SW11 1JW",
+    "display_address": "Lavender Hill, London, SW11 "
+  },
+  "price": {
+    "price": 1200000,
+    "service_charge": 6000
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "channel": "lettings",
+  "details": {
+    "property_type": "semi-detached",
+    "bedrooms": 5,
+    "entrance_floor": "3",
+    "lift_access": "no-lift",
+    "rear_garden": "patio",
+    "parking": "none",
+    "heating": "oil",
+    "last_decorated": "pre-2010",
+    "date_available": "08-10-2013",
+    "furnished": "unfurnished",
+    "pets": "caged",
+    "managed_by": "landlord"
+  },
+  "address": {
+    "house_name_number": "51 Brushfield St",
+    "town": "London",
+    "postcode": "E1 6AA",
+    "display_address": "Brushfield St, London, E1 "
+  },
+  "price": {
+    "price": 2400,
+    "period": "/pcm",
+    "deposit": "6-weeks",
+    "agent_fees": 350
+  },
+  "included": {
+    "water_bill": true,
+    "council_tax": true,
+    "energy_bill": false,
+    "phone_bill": true,
+    "internet_bill": true,
+    "tv_license": false
+  }
+}
