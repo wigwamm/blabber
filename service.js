@@ -9,4 +9,4 @@ app.use(rest.rester());
 var descriptionGenerator = require('./lib/descriptionGenerator');
 rest.post('/description/:type', descriptionGenerator.generate);
 
-http.createServer(app).listen(9000);
+http.createServer(app).listen(80);
